@@ -18,11 +18,12 @@ public final class ProxyGate extends Plugin implements Listener {
         whitelist.loadData(); // Load the whitelist data
         ProxyServer.getInstance().getPluginManager().registerCommand(this, new Whitelist(this));
         ProxyServer.getInstance().getPluginManager().registerListener(this, new ConnectionListener(this));
+        getLogger().info(MessagePreset.PLUGIN_GREET.getMessage());
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        getLogger().info(MessagePreset.PLUGIN_FAREWELL.getMessage());
     }
 
 }
