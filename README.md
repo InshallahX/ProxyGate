@@ -19,7 +19,7 @@
 - `/whitelist remove <player>`: Remove a player from the whitelist.
 - `/whitelist list`: List all whitelisted players.
 
-## Permissions
+## Permissions (Soon)
 
 - `proxigate.whitelist`: Permission to use the `/whitelist` command.
 
