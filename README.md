@@ -19,19 +19,11 @@
 - `/whitelist remove <player>`: Remove a player from the whitelist.
 - `/whitelist list`: List all whitelisted players.
 
-## Permissions (Soon)
-
-- `proxigate.whitelist`: Permission to use the `/whitelist` command.
-
 ## Usage
 
 1. Add players to the whitelist using the `/whitelist add <player>` command.
 2. Remove players from the whitelist using the `/whitelist remove <player>` command.
 3. Players on the whitelist can now connect to your BungeeCord server.
-
-## Customization
-
-You can customize the greeting and farewell messages in the `config.yml` file located in the plugin data folder.
 
 ## Building from Source
 
