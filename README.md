@@ -9,7 +9,7 @@
 
 ## Installation
 
-1. Download the latest release of **ProxyGate** from the [Releases](https://github.com/your-repo-url/releases) page.
+1. Download the latest release of **ProxyGate** from the [Releases](https://github.com/InshallahX/ProxyGate/releases) page.
 2. Place the downloaded JAR file into the "plugins" folder of your BungeeCord server.
 3. Start or restart your BungeeCord server.
 
